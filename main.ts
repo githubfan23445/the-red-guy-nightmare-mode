@@ -209,7 +209,7 @@ info.onLifeZero(function () {
         . . . 2 2 2 2 2 2 . . . . 
         . . . 2 2 . . 2 2 . . . . 
         `)
-    music.playMelody("C5 B A G F E D C ", 120)
+    music.playMelody("C E G B C5 A F D ", 120)
     game.over(false)
 })
 let trg: Sprite = null
